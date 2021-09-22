@@ -10,7 +10,7 @@ II - GAN
 analyze pixels on my existing tattoo designs & expand/generate image? 
 then, after analyzing & small adjustments, the design will be tattooed on me & become literally a part of my system. 
 
-III - more GAM
+III - more GAN
 same as idea II but with expanded data base extracted from a pinterest tattoo board I hv curated over the years. 
 with the focus being facial reconition & finding the optimal design.
 n then tat it? (my face is running out of space but I'll make it work)
